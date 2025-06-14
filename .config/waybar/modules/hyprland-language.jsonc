@@ -1,0 +1,7 @@
+{
+  "hyprland/language": {
+    "format": "{}",
+    "format-en": "  US",
+    "on-click": "hyprctl switchxkblayout evision-usb-device next",
+  },
+}

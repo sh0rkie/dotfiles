@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Apps
+zen-browser-bin &
+spotify &
+discord &
+thunderbird &
+obsidian &
